@@ -12,6 +12,7 @@ const Clients: React.FC = () => {
         <Route path="/new" component={Form} />
         <Route path="/list" component={Listar} />
         <Route path="/edit/:id" component={() => <Form edit />} />
+        <Route path="/" component={Form} />
       </Switch>
     </>
   );
