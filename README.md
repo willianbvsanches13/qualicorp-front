@@ -14,6 +14,7 @@ Para executar o projeto
 
 Projeto criado com `create react-app` e utiliza as seguintes bibliotecas:
 
-Typescript
-styled-components
-react-router-dom
+Typescript, 
+styled-components, 
+react-router-dom, 
+Ant-design
